@@ -1,0 +1,25 @@
+#global-data-header {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#global-data-header span {
+	font-weight: bold;
+	color: #428bca;
+}
+
+.sprite-icons {
+	display: block;
+	float: left;
+	margin-right: 10px;
+}
+
+.navigation {
+	background-color: lightblue;
+	height: 26px;
+	width: 98%;
+	margin: 0 auto;
+	margin-top: 10px;
+	text-align: center;
+	box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 8px -4px rgba(31, 73, 125, 0.8);
+}
